@@ -25,6 +25,12 @@ body
     font-size: 0.8em;
 }
 
+
+#pgn
+{
+    padding: 1em;
+}
+
 #container
 {
     width: 70%;
@@ -37,9 +43,4 @@ body
 #container h1
 {
     font-size: 38px;
-}
-
-#pgn
-{
-    padding: 1em;
 }
