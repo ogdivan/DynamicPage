@@ -1,0 +1,2 @@
+# DynamicPage
+Una página elegante
